@@ -21,7 +21,7 @@ A C++ based Sudoku Solver that leverages the power of Depth First Search (DFS) t
 To get started, first clone this repository to your local machine:
 
 `bash
-git clone https://github.com/yourusername/sudoku-solver.git
+git clone https://github.com/MahdiehAbdorrahimi/sudoku-solver.git
 
 ## 💡 How It Works
 
